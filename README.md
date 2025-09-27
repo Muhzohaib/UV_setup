@@ -1,1 +1,0 @@
-this repo we use for a project setup through uv new pakage which faster from pip
